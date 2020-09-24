@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Subjects_iCheck-helper</name>
+   <tag></tag>
+   <elementGuidId>483554af-5f39-491f-88c1-014c2d6baf0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icheckbox_square-blue.hover > ins.iCheck-helper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[2]/div/form/div/div/div[2]/div/div[3]/div/div/div/label/div/ins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;main-content ng-scope&quot;]/div[@class=&quot;usmle-create-test ng-scope&quot;]/form[@class=&quot;ng-pristine ng-valid-maxlength ng-valid-integer ng-invalid ng-invalid-required&quot;]/div[@class=&quot;wrapper wrapper-content row animated fadeInRight&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[1]/div[3]/div[@class=&quot;ibox float-e-margins&quot;]/div[@class=&quot;ibox-title&quot;]/div[@class=&quot;pull-left header introSubjectsStep3&quot;]/label[@class=&quot;ng-binding hover&quot;]/div[@class=&quot;icheckbox_square-blue hover&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[2]/div/form/div/div/div[2]/div/div[3]/div/div/div/label/div/ins</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/label/div/ins</value>
+   </webElementXpaths>
+</WebElementEntity>
